@@ -1,2 +1,2 @@
 # GW170817
-GW170817 EM data
+GW170817 afterglow data
