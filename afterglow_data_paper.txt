@@ -257,4 +257,4 @@ DateUT, T, Telescope, Freq, FluxD, FluxDErr
 2020-May-03, 989, ATCA, 2.1e9, <33, 
 2020-Dec-09--2021-Jan-27, 1231, Chandra, 2.41e17, 2.10e-4, 0.65e-4
 2020-Sep-19--2021-Feb-08, 1228, VLA, 3.00e9, 2.86e0, 0.99e0
-2020-Feb-10, 1273, VLA, 15.00e9, <5.7
+2020-Feb-10, 1273, VLA, 15.00e9, <5.7, 
