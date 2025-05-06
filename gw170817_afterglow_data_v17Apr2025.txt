@@ -16,7 +16,7 @@
 # Table can be read into astropy using:
 # -------------------------------------------------------
 # from astropy.io import ascii
-# gw170817 = ascii.read('gw170817_afterglow_data_full.txt')
+# gw170817 = ascii.read('gw170817_afterglow_data_v17Apr2025.txt')
 # 
 # -------------------------------------------------------
 # References:
@@ -47,7 +47,7 @@
 #              (2) Added ATCA points from Troja+2022.
 # 06 Oct 2022: (1) Added VLA T~1645 data point. 
 #              (2) Changed format of non-detections (FluxDErr -9) 
-# 17 Apr 2024: (1) Updated HST data points with Kilpatrick+2022
+# 17 Apr 2025: (1) Updated HST data points with Kilpatrick+2022
 #              (2) Updated Chandra points from Katira+2025.
 #                  The Chandra data point from 2440d is unpublished.            
 # -------------------------------------------------------
